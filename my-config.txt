@@ -1,0 +1,4 @@
+# Exemple de fichier de configuration qui peut être utilisé pour configurer une application
+
+parametre1 = value1
+parametre2 = value2
